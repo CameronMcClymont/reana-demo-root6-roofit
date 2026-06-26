@@ -135,7 +135,7 @@ Snakemake, Yadage) you would like to use:
 If you would like a step-by-step guide on how to use the REANA command-line
 client to launch this analysis example, please read on.
 
-We start by creating a [reana.yaml](reana.yaml) file describing the above
+We start by creating a [reana.yaml](temp/reana.yaml) file describing the above
 analysis structure with its inputs, code, runtime environment, computational
 workflow steps and expected outputs:
 
